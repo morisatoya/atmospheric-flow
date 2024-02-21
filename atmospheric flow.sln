@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "atmospheric flow", "atmospheric flow.pyproj", "{3CB3AB9F-63C7-4723-9696-DF0BB4F6C63C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB3AB9F-63C7-4723-9696-DF0BB4F6C63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB3AB9F-63C7-4723-9696-DF0BB4F6C63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B23EF276-9B3B-4CE3-8DB8-01F9505D4A7B}
+	EndGlobalSection
+EndGlobal
